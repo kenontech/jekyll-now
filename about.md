@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Many years of experiences in software development. I am interested in security, big data, machine learning, distributed systems, and many more.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Like running, hiking, and sometimes cooking.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yismail@gmail.com](mailto:yismail@gmail.com)
